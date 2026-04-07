@@ -48,7 +48,39 @@ Current approved details:
 If helpful, we can also send replacement wording for the relevant section.
 ```
 
-## 4. Unpublished Partner Brief
+## 4. Soft Update For An Active Partner Offer
+
+Use this when the user says the partner's current co-branded or affiliate offer is still active and you should not lead with an expired public code problem.
+
+```md
+Subject: Quick update for your {brand/product} article
+
+Hi {Partner Name},
+
+Just a quick update from our side.
+
+Your current {brand x partner} offer is still active, so you can continue using it in your coverage. We did want to flag a few supporting details that should be refreshed to better match the current offer.
+
+Please update:
+- {product name}: {current approved price}
+- {product name}: {current approved price}
+- Remove any wording that says {old gift wording}
+- If you mention the incentive at all, position it as {subscription-only / manual add-on / other approved wording}
+
+If helpful, we can also send an approved current fact sheet.
+```
+
+## 5. Missing Product / Seeding Note
+
+Use this when the article is missing a product and the user wants to mention that they are sending one.
+
+```md
+We also noticed that your article does not currently include our {missing product}. We are sending one out to you now, and we would love for you to consider adding it to your roundup once you have had a chance to review it.
+
+The {missing product} currently starts at {price}, and we think it would be a strong fit alongside the rest of the lineup.
+```
+
+## 6. Unpublished Partner Brief
 
 ```md
 ### {Partner Name}
@@ -63,7 +95,7 @@ If helpful, we can also send replacement wording for the relevant section.
   - {traveler / creator / desk setup / gifting / etc.}
 ```
 
-## 5. Unpublished Partner Outreach
+## 7. Unpublished Partner Outreach
 
 ```md
 Subject: Current {brand} offer you can feature
@@ -85,7 +117,7 @@ Possible angles:
 If you want, we can also send a short product summary or recommended copy points for your audience.
 ```
 
-## 6. Open Questions Block
+## 8. Open Questions Block
 
 ```md
 ## Open Questions
@@ -98,4 +130,7 @@ If you want, we can also send a short product summary or recommended copy points
 
 - Keep partner-facing copy short enough to forward without editing.
 - Replace placeholders with confirmed facts only.
+- When current prices are confirmed, list the exact products and current prices instead of saying only that pricing should be rechecked.
+- If the user says the partner offer is still active, lead with that fact and avoid unnecessary expired-code language.
+- If the gift policy is subscription-only, never phrase it as a purchase-based gift.
 - If the user requests sheet-ready output, flatten the same information into columns instead of prose.
