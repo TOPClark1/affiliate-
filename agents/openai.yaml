@@ -1,0 +1,4 @@
+interface:
+  display_name: "Affiliate Content Sync"
+  short_description: "Audit affiliate pages and draft partner update notices."
+  default_prompt: "Use $affiliate-content-sync to compare affiliate content links with our current site pricing and bundles, then draft update guidance and outreach messages."
