@@ -206,6 +206,14 @@ Keep unpublished-partner outreach focused on what is new and worth publishing no
   - suggested positioning
   - inferred opportunity
 
+## Skill Evolution
+
+- Treat durable user corrections as permanent skill updates, not one-off chat instructions.
+- When the user says future runs should follow a new rule, default, tone, comparison method, or output format, update this skill's instructions and templates to reflect that change.
+- When the user points out a repeated mistake, turn that mistake into an explicit guardrail.
+- Prefer backwards-compatible evolution when possible so older workflows still work.
+- If a new rule is general enough to improve other user-editable skills, propagate it there too instead of leaving it local to this skill.
+
 ## Default Deliverables
 
 Unless the user specifies another format, deliver these sections in order:
