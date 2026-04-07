@@ -21,9 +21,10 @@ description: "Audit affiliate or partner-facing promotional content against the 
 4. Separate confirmed facts from suggested rewrites. Never blur the two.
 5. Distinguish public promotions from partner-specific or co-branded offers. Do not tell a partner to remove an offer that the user says is still active unless the user explicitly asks for that.
 6. When prices changed and the approved current numbers are known, list the exact changed products and current prices instead of telling the partner to broadly recheck pricing.
-7. Do not invent discounts, bundle items, free gifts, coupon codes, end dates, regional availability, or seeding promises.
-8. Preserve partner-specific context such as language, market, relationship tone, and page format when drafting updates.
-9. If the user gives a required output format, use it exactly.
+7. If a product has multiple options, variants, or configurations with distinct current prices, list each approved option and its price separately. Do not skip the product just because there is more than one valid price.
+8. Do not invent discounts, bundle items, free gifts, coupon codes, end dates, regional availability, or seeding promises.
+9. Preserve partner-specific context such as language, market, relationship tone, and page format when drafting updates.
+10. If the user gives a required output format, use it exactly.
 
 ## Gather Inputs
 
@@ -83,6 +84,7 @@ If a required fact is missing and the gap would change the recommendation materi
 5. Compare the affiliate page against the current site truth field by field, using the override ledger first whenever the user has clarified a fact.
 6. Convert every mismatch into an action item with explicit before/after guidance.
 7. If exact current prices are confirmed, replace generic advice with a concrete changed-price list.
+   - if multiple approved options exist, include each option explicitly
 8. Draft partner-facing communication in the appropriate lane:
    - published partner: correction and replacement guidance
    - unpublished partner: current promo brief and publishing suggestions
@@ -96,6 +98,7 @@ Always compare these items when available:
 
 - product naming and model/version naming
 - standalone prices
+- variant or option prices when a product has multiple valid configurations
 - bundle names
 - bundle contents
 - savings framing
@@ -124,6 +127,7 @@ For partners who already published, produce:
    - current approved replacement
    - whether the issue is mandatory or recommended
    - explicit changed prices when confirmed
+   - each variant price when more than one approved option exists
 3. A partner-facing message:
    - concise
    - easy to forward
@@ -194,6 +198,7 @@ Keep unpublished-partner outreach focused on what is new and worth publishing no
 - Do not carry over expired promo language just because it appears on an affiliate page.
 - Do not confuse a public expired code with an active partner-specific offer.
 - Do not describe a subscription-only gift as a purchase-based free gift.
+- Do not skip a product price update only because the product has two options or two valid current prices.
 - Mark uncertain items as unverified instead of treating them as true.
 - Do not recommend misleading urgency, stock, or discount claims.
 - Distinguish clearly between:

@@ -64,6 +64,7 @@ Your current {brand x partner} offer is still active, so you can continue using 
 Please update:
 - {product name}: {current approved price}
 - {product name}: {current approved price}
+- {product with options}: {option A} - {price}, {option B} - {price}
 - Remove any wording that says {old gift wording}
 - If you mention the incentive at all, position it as {subscription-only / manual add-on / other approved wording}
 
@@ -131,6 +132,7 @@ If you want, we can also send a short product summary or recommended copy points
 - Keep partner-facing copy short enough to forward without editing.
 - Replace placeholders with confirmed facts only.
 - When current prices are confirmed, list the exact products and current prices instead of saying only that pricing should be rechecked.
+- If a product has multiple options or configurations, list every approved option and price instead of skipping the product.
 - If the user says the partner offer is still active, lead with that fact and avoid unnecessary expired-code language.
 - If the gift policy is subscription-only, never phrase it as a purchase-based gift.
 - If the user requests sheet-ready output, flatten the same information into columns instead of prose.
